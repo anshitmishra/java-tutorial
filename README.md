@@ -1,3 +1,6 @@
+<center>
+<img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" alt="intro java" width="500px" height="500px" style="object-fit:cover;" >
+</center>
 # Java Programming Tutorial
 
 Welcome to the Java Programming Tutorial repository! This repository is designed to provide beginners with a comprehensive introduction to Java programming. Whether you're new to programming or looking to expand your skills, this tutorial will guide you through the fundamentals of Java development.
