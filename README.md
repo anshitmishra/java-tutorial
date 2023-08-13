@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/anshitmishra/java-tutorial/main/images/1.png" alt="intro java" width="500px" height="500px" style="object-fit:cover;" >
+<img src="https://raw.githubusercontent.com/anshitmishra/java-tutorial/main/images/1.png" alt="intro java" width="500px" style="object-fit:cover;" >
 </p>
 # Java Programming Tutorial
 
